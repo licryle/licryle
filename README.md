@@ -1,7 +1,7 @@
 
 # Hi, I'm Cyrille Berliat 👋
 
-### Product & Technology Leader | Software Engineer | Entrepreneur
+### Product & Technology Leader | Software Engineer | ex-Google Veteran | Entrepreneur
 
 I turn complex product and technology challenges into clear, usable software.
 
